@@ -1,12 +1,74 @@
-👋 Hello! I'm Aswin Kumar
-I'm a Computer Science and Engineering (CSE) student, just getting started with my programming journey. I use this GitHub profile mainly to practice coding, upload my lab work, and slowly build up my skills and confidence in the tech field.
+<h1 align="center">Hi there 👋 I'm Aswin Kumar S</h1>
 
+<p align="center">
+  <b>Aspiring Software Engineer | CSE @ JJ College of Engineering and Technology</b><br/>
+  Passionate about building meaningful software and learning modern technologies.
+</p>
 
-🎯 My Short-Term Goals:
-Understand programming concepts more deeply
+---
 
-Improve my logic-building and debugging skills
+## 🔗 Social Links  
+<p align="left">
 
-Build small projects on my own
+  <a href="https://github.com/saswinkumar017">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
+  <a href="https://www.instagram.com/saswinkumar17/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 
+  <a href="https://www.linkedin.com/in/aswin-kumar-s-21112006ni17">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+</p>
+
+---
+
+## 🧑‍💻 About Me  
+
+- 🎓 **CSE Student @ JJ College of Engineering**  
+- 🧠 Passionate about **Web Development**, **AI**, and **Software Engineering**  
+- 🧩 Currently mastering:  
+  - 📘 **Data Structures & Algorithms (DSA)**  
+  - ⚛️ **React & Next.js**  
+  - 🤖 **AI tools, automation & modern developer workflows**  
+- 🎨 I love building **clean, creative, user-centric interfaces**  
+- 🚀 Always exploring new technologies & improving problem-solving skills  
+
+---
+
+## 🚀 I Code In
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,git,github,mysql" />
+</p>
+
+---
+
+## 🛠️ Tools & Technologies I Use  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,linux,firebase,vercel,postman,git,github,mongodb,mysql" />
+</p>
+
+---
+
+## ✨ Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saswinkumar017&style=for-the-badge&color=blue" />
+</p>
+
+---
+
+## 📫 Contact Me  
+<p>
+  <a href="mailto:saswinkumar2007@gmail.com">
+    <img src="https://img.shields.io/badge/email-saswinkumar2007@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+ 
+ 
+</p>
+
+---
+
+⭐ **If you like my profile, don’t forget to star my repositories!**
