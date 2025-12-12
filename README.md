@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋 I'm Aswin Kumar S</h1>
+><h1 align="center">Hi there 👋 I'm <p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Serif&size=30&pause=3000&color=FFFFFF&center=true&lines=Aswin+Kumar+S)](https://git.io/typing-svg)
+</h1>
 
 <p align="center">
   <b>Aspiring Software Engineer | CSE @ JJ College of Engineering and Technology</b><br/>
