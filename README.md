@@ -1,7 +1,13 @@
-><h1 align="center">Hi there 👋 I'm <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Serif&size=30&pause=3000&color=FFFFFF&center=true&vCenter=true&random=true&lines=Aswin+Kumar+S" alt="Typing SVG" /></a>
-</p>
-</h1>
+><h1 align="center">Hi there 👋 I'm</h1>
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Serif&size=30&pause=3000&color=FFFFFF&center=true&vCenter=true&random=true&lines=Aswin+Kumar+S" 
+    alt="Aswin Kumar S"
+  />
+</div>
+
+
 
 <p align="center">
   <b>Aspiring Software Engineer | CSE @ JJ College of Engineering and Technology</b><br/>
