@@ -28,7 +28,7 @@
 
 ## 🧑‍💻 About Me  
 
-- 🎓 **CSE Student @ JJ College of Engineering**  
+- 🎓 **CSE Student @ JJ College of Engineering and Technology**  
 - 🧠 Passionate about **Web Development**, **AI**, and **Software Engineering**  
 - 🧩 Currently mastering:  
   - 📘 **Data Structures & Algorithms (DSA)**  
@@ -59,7 +59,8 @@
 </p>
 
 ---
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/saswinkumar17?theme=dark&font=IBM%20Plex%20Serif)
+---
 ## 📫 Contact Me  
 <p>
   <a href="mailto:saswinkumar2007@gmail.com">
