@@ -7,7 +7,6 @@
   />
 </div>
 
----
 
 <p align="center">
   <b>Aspiring Software Engineer | CSE @ JJ College of Engineering and Technology</b><br/>
