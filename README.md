@@ -1,12 +1,13 @@
-<h1 align="center">Hi there 👋 I'm</h1>
+
 <div align="center">
+  <h1 align="center">Hi there 👋 I'm</h1>
   <img 
     src="https://readme-typing-svg.demolab.com?font=Serif&size=30&pause=3000&color=FFFFFF&center=true&vCenter=true&random=true&lines=Aswin+Kumar+S" 
     alt="Aswin Kumar S"
   />
 </div>
 
-
+---
 
 <p align="center">
   <b>Aspiring Software Engineer | CSE @ JJ College of Engineering and Technology</b><br/>
@@ -16,10 +17,10 @@
 ---
 
 ## 🔗 Social Links  
-<p align="left">
+<p align="center">
 
   <a href="https://github.com/saswinkumar017">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
   <a href="https://www.instagram.com/saswinkumar17/">
@@ -27,7 +28,11 @@
   </a>
 
   <a href="https://www.linkedin.com/in/aswin-kumar-s-21112006ni17">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://x.com/saswinkumar2007">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
 
 </p>
@@ -67,17 +72,23 @@
 </p>
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/saswinkumar17?theme=dark&font=Ruluko&ext=heatmap)
----
-## 📫 Contact Me  
-<p>
-  <a href="mailto:saswinkumar2007@gmail.com">
-    <img src="https://img.shields.io/badge/email-saswinkumar2007@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
- 
- 
+## 🧩 LeetCode Progress
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/saswinkumar17?theme=dark&ext=heatmap">
 </p>
 
 ---
 
-⭐ **If you like my profile, don’t forget to star my repositories!**
+## 📫 Contact Me  
+<p align="center">
+  <a href="mailto:saswinkumar2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>✨ Thanks for visiting my profile — feel free to explore my repositories.</sub><br/>
+  <sub>⭐ If you like my work, don't forget to star the repositories!</sub>
+</p>
