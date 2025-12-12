@@ -1,6 +1,5 @@
 ><h1 align="center">Hi there 👋 I'm</h1>
-
-<div align="center">
+><div align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Serif&size=30&pause=3000&color=FFFFFF&center=true&vCenter=true&random=true&lines=Aswin+Kumar+S" 
     alt="Aswin Kumar S"
