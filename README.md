@@ -59,7 +59,7 @@
 </p>
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/saswinkumar17?theme=dark&font=IBM%20Plex%20Serif)
+![LeetCode Stats](https://leetcard.jacoblin.cool/saswinkumar17?theme=dark&font=Ruluko&ext=heatmap)
 ---
 ## 📫 Contact Me  
 <p>
