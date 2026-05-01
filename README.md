@@ -14,7 +14,7 @@
 
 ## 🧠 About Me  
 
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<p align="center"><img width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></p>
 
 - 🎓 Computer Science Engineering @ JJ College of Engineering and Technology  
 - 💻 Backend-focused developer working with **Java & Spring Boot**  
